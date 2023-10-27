@@ -1,1 +1,3 @@
-files
+@echo off
+echo Sakamochanq
+pause
