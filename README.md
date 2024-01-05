@@ -16,20 +16,20 @@
       <!--------------------------------------->
       <td align="center" width="96">
         <a href="#">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-        </a><br>MySQL
-      </td>
-      <!--------------------------------------->
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        </a><br>Javascript
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        </a><br>C++
       </td>
       <!--------------------------------------->
       <td align="center" width="96">
         <a href="#">
           <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
         </a><br>C#
+      </td>
+      <!--------------------------------------->
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        </a><br>Python
       </td>
       <!--------------------------------------->
     </tr>
