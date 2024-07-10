@@ -17,7 +17,7 @@
     <tr>
       <td align="center" width="400">
         <a href="#">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bgdpxvzykx2anutyeiscxjcque&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=25D219&bar_color_cover=false">
+          <img alt="404 Not found" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bgdpxvzykx2anutyeiscxjcque&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
         </a>
       </td>
     </tr>
