@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>Sorry everyone. 😢</h1>
+  <br><br><br><br><br><br>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakamochanq">
 </p>
