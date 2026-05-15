@@ -24,7 +24,7 @@
     <tr>
       <td align="center" width="400">
         <a href="#">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bgdpxvzykx2anutyeiscxjcque&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bgdpxvzykx2anutyeiscxjcque&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
         </a>
       </td>
     </tr>
