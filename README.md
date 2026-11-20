@@ -5,17 +5,17 @@
 </div> 
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakamochanq">
-</p>
+</p> -->
 
 **<p align="center">Hi there, I'm Sakamochanq</p>**
 
-**<p align="center">[Sakamochanq.github.io](https://sakamochanq.github.io/)</p>**
+<!-- **<p align="center">[Sakamochanq.github.io](https://sakamochanq.github.io/)</p>** -->
 
- **<p align="center">I listen to music in my spare time.</p>**
+ **<p align="center">I listen to music in my spare time. 🐲</p>**
 
----
+
 
 <br>
 
